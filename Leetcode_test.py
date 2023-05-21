@@ -4,6 +4,7 @@ def factorial(n):
     else:
         return n * factorial(n-1)
 print(factorial(3))
+print(1)
 
 def Fibonacci(n):
     if n <= 0:
